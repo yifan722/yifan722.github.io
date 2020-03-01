@@ -1,12 +1,12 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+标题： BY Blog
+SEOTitle：杨一帆的博客
+header-img：img / post-bg-desk.jpg
+电子邮件：115141048 @ qq.com
+描述：“每一次失败都会取得成功“
+关键字：“ BY，BY Blog，杨一帆”
+网址：“ http://qiubaiying.github.io”＃您的主机，用于绝对网址
+baseurl：“”＃例如，如果您的博客托管在“ host / blog”上，则为“ / blog”
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
@@ -18,12 +18,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+
 
 
 
@@ -65,9 +60,9 @@ gitalk:
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  owner: qiubaiying    #github用
+  管理员：杨一帆
+  distractionFreeMode ： true ＃是否启用类似FB的阴影遮罩
 
 
 # 统计
@@ -96,19 +91,3 @@ service-worker: true
 
 
 
-# Friends
-friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
-]
